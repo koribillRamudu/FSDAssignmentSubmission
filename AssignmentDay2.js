@@ -5,6 +5,8 @@
 // null is a value that you can assign to a variable to show it has no value or is empty.
 
 
+
+
 // 2.What will be the output of the following code snippet, and why?
 console.log('10'+5)
 console.log('10'-5)
